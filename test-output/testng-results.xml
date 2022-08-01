@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-27T12:14:06 IST" name="Default suite" finished-at="2022-05-27T12:14:13 IST" duration-ms="7174">
+    <groups>
+    </groups>
+    <test started-at="2022-05-27T12:14:06 IST" name="Default test" finished-at="2022-05-27T12:14:13 IST" duration-ms="7174">
+      <class name="Selenium4.selenium4feature">
+        <test-method signature="OpenNewTeb()[pri:0, instance:Selenium4.selenium4feature@73e22a3d]" started-at="2022-05-27T12:14:06 IST" name="OpenNewTeb" finished-at="2022-05-27T12:14:13 IST" duration-ms="7143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenNewTeb -->
+      </class> <!-- Selenium4.selenium4feature -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
